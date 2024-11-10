@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "description": "Sun Guardian 2：Stranded汉化包\nby一条鱼丸_",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 22
+    }
+  }
+}
