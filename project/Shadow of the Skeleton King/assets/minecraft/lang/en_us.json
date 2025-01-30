@@ -1328,9 +1328,5 @@
   "function.commandblock.data.crd.function.z.errors.entity.line1": "Only Custom Repeaters Can Run This Command",
   "function.commandblock.data.crd.function.z.errors.missing.line1": "Missing Comparator or Custom Repeater",
   "function.commandblock.data.crd.function.z.errors.missing.line1.1": " - ",
-  "function.commandblock.data.crd.function.z.errors.missing.line1.2": "$(x)",
-  "function.commandblock.data.crd.function.z.errors.missing.line1.3": ", ",
-  "function.commandblock.data.crd.function.z.errors.missing.line1.4": "$(y)",
-  "function.commandblock.data.crd.function.z.errors.missing.line1.5": "$(z)",
-  "function.commandblock.data.crd.function.z.give.custom_repeater.line3": "$(delay)"
+  "function.commandblock.data.crd.function.z.errors.missing.line1.3": ", "
 }
